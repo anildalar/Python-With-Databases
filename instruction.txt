@@ -1,0 +1,13 @@
+Python with Databases
+
+SQL = Structured Query Language
+
+Database 
+	1. SQL based DBs
+		MYSQL,MariaDB,SQLite,SQLServer,Oracle
+	2. NoSQL DBs
+		MongoDb
+	3. KeyValue Based Db.
+		Redis DB (in Memory DBs)
+
+A_I = Auto Increment
